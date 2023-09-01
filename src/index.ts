@@ -1,3 +1,3 @@
 import { server } from "./server/server";
 
-server.listen(3333, () => console.log("rodando"))
+server.listen(3333, () => console.log("rodando"));
